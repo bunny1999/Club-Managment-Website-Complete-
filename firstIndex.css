@@ -1,0 +1,50 @@
+#signInButton{
+    position: relative;
+    top:-30px;
+    left:-30px;
+}
+.joinNowButton{
+    position: relative;
+    left:50px;
+    width:100px;
+}
+#mainCardContainer{
+    margin:0 40px 0 150px;
+
+}
+#mainContainer{
+    margin-bottom: 50px;
+    
+}
+.card{
+    margin:5px 2px 0px 2px;
+}
+.card:hover{
+    box-shadow: 0 5px 20px #ddd inset, 0 3px 0 #999;
+    /* margin-right: 5px;
+    margin-left: 5px; */
+}
+.joinNowButton:hover{
+    box-shadow:  0 40px 0 #E55222 inset;
+}
+
+.popUpTitle{
+    margin-left: 200px;
+}
+.popUpBodyMargin{
+    margin:5px 30px;
+} 
+#dsiLogo{
+    height: 10px;
+}
+#projectName{
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+}
+#motiveLine{
+    color:white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 230%;
+}
+

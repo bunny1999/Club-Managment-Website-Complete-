@@ -1,0 +1,59 @@
+#signInButton{
+    position: relative;
+    top:-30px;
+    left:-30px;
+}
+.joinNowButton{
+    position: relative;
+    left:70px;
+}
+#mainCardContainer{
+    margin:0 40px 0 150px;
+}
+#mainContainer{
+    margin-bottom: 50px;
+}
+.card{
+    margin:5px 2px 0px 2px;
+}
+.card:hover{
+    box-shadow: 0 5px 20px #ddd inset, 0 3px 0 #999;
+    /* margin-right: 5px;
+    margin-left: 5px; */
+}
+.addCardBox:hover{
+    box-shadow: none;
+}
+.addCardBox{
+    /* background-color: rgba(153, 153, 153, 0.322); */
+    opacity: 0.5;
+    background-image: radial-gradient(circle,#ddd 12%,#999 50%);
+}
+.joinNowButton:hover{
+    box-shadow:  0 40px 0 #E55222 inset;
+}
+#addCardButton{
+    margin:130px 55px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border:1px solid #4C4B4B;
+    background-color: white;
+}
+#addCardButton:hover{
+    box-shadow:  5px 5px 5px #0879FA ;
+}
+.glyphicon{
+    font-size: 65px;
+    position: relative;
+    top:-10px;
+}
+.navBarBtn{
+    color: rgba(255,255,255,.5);
+}
+.navBarBtn:hover{
+    color: white;
+}
+.hide{
+    display: none;
+}

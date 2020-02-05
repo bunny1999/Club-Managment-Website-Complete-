@@ -1,0 +1,9 @@
+.navBarBtn{
+    color: rgba(255,255,255,.5);
+}
+.navBarBtn:hover{
+    color: white;
+    
+}
+
+/* for edit page */

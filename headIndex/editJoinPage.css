@@ -1,0 +1,24 @@
+.clear{
+    clear:both;
+}
+#clubCoverTitle{
+    font-weight: bolder;
+    font-size: 80px;
+    float:left;
+    margin-left:10px;
+    margin-top:30px;
+}
+#clubCoverDescription{
+    float:left;
+    margin-left:10px;
+    margin-top:40px;
+}
+#saveBtnBox{
+    margin-top:200px;
+    margin-left:900px;
+    display:none;
+}
+.toPost{
+    display:none;
+    
+}
